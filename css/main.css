@@ -17,6 +17,8 @@
     - Tooltip 
     - Responsive code
   
+Linda has added a bit of video code to make videos look nice
+- Responsive Video Sizes
     
 */
 
@@ -362,6 +364,20 @@ h5, h6          { font-weight: bolder }
     background-position: 50% 50%;
 }
 
+.top_pokemon{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/spaceinvaderpokemonlong.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
 
 
 .work_nav{
@@ -613,4 +629,18 @@ h5, h6          { font-weight: bolder }
      .main .work{
         width: 100%;
     }
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
