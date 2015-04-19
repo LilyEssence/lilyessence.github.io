@@ -347,6 +347,7 @@ h5, h6          { font-weight: bolder }
 
 
 
+
 /*  Inner Page  */
 .top{
     width: 100%;
@@ -354,20 +355,19 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
-  /*  background: url('../img/hero_image.jpg') no-repeat; */
+    background: url('../img/hero_image.jpg') no-repeat; 
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-position: 50% 50%;
 }
+#spaceinvaderpokemon .top{
+    background: url('../spaceinvaderpokemon/spaceinvaderpokemonlong.jpg') no-repeat; 
+}
 
-
-.spaceinvaderpokemon .top{
-    background: url('../img/spaceinvaderpokemonlong.jpg') no-repeat; }
-
-.linefollowingcar .top{
-    background: url('../img/linefollowingcarlong.jpg') no-repeat; }
+#linefollowingcar .top{
+    background: url('../linefollowingcar/linefollowingcarlong.jpg') no-repeat; }
 }
 
 
