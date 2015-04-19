@@ -367,8 +367,19 @@ h5, h6          { font-weight: bolder }
 }
 
 #linefollowingcar .top{
-    background: url('../linefollowingcar/linefollowingcarlong.jpg') no-repeat; }
+    background: url('../linefollowingcar/linefollowingcarlong.jpg') no-repeat;
 }
+
+#atxsciolylogo .top{
+    background: url('../atxsciolylogo/sciolybanner.jpg') no-repeat; 
+    background-size: cover;
+}
+
+#darkdeer .top{
+    background: url('../darkdeer/darkdeerlong.jpg') no-repeat;
+    background-size: cover;
+}
+
 
 
 
