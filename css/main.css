@@ -380,6 +380,15 @@ h5, h6          { font-weight: bolder }
     background-size: cover;
 }
 
+#aboutpage .top{
+    background: url('../about/aboutpagelong.jpg') no-repeat;
+    background-size: cover;
+}
+
+#soraka .top{    
+    background: url('../soraka/sorakalong.jpg') no-repeat;
+    background-size: cover;
+}
 
 
 
