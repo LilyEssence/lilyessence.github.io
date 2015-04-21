@@ -390,6 +390,10 @@ h5, h6          { font-weight: bolder }
     background-size: cover;
 }
 
+#sherlockjeans .top{
+    background: url('../sherlockjeans/sherlockjeanslong.jpg') no-repeat;
+    background-size: cover;
+}
 
 
 .work_nav{
