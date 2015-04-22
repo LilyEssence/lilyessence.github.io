@@ -355,44 +355,118 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
-    background: url('../img/hero_image.jpg') no-repeat; 
+  /*  background: url('../img/hero_image.jpg') no-repeat; */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-position: 50% 50%;
 }
+
 #spaceinvaderpokemon .top{
     background: url('../spaceinvaderpokemon/spaceinvaderpokemonlong.jpg') no-repeat; 
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
+
 
 #linefollowingcar .top{
     background: url('../linefollowingcar/linefollowingcarlong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 #atxsciolylogo .top{
     background: url('../atxsciolylogo/sciolybanner.jpg') no-repeat; 
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 #darkdeer .top{
     background: url('../darkdeer/darkdeerlong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 #aboutpage .top{
     background: url('../about/aboutpagelong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 #soraka .top{    
     background: url('../soraka/sorakalong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 #sherlockjeans .top{
     background: url('../sherlockjeans/sherlockjeanslong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 
