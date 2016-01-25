@@ -469,6 +469,20 @@ h5, h6          { font-weight: bolder }
     background-position: 50% 50%;
 }
 
+#clovervoice .top{
+    background: url('../clovervoice/clovervoicelong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
 
 .work_nav{
     display: block;
