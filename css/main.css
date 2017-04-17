@@ -499,6 +499,21 @@ h5, h6          { font-weight: bolder }
     background-position: 50% 50%;
 }
 
+#ahchooseyou .top{
+    background: url('../ahchooseyou/ahchooseyoulong.jpg') no-repeat;
+    
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
 .work_nav{
     display: block;
     width: 100%;
